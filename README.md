@@ -1,2 +1,3 @@
 # Hello-World
-This is the first one!
+
+Hi there! I'm Stanley Huang.
